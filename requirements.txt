@@ -1,0 +1,6 @@
+aiogram>=3.0.0
+google-genai
+python-dotenv
+aiohttp
+edge-tts
+pypdf
